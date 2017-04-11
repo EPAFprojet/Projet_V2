@@ -21,8 +21,6 @@ MainWindow::MainWindow(QWidget *parent) :
 
    connexion = new connexionmainmenu();
 
-   //MainWindow::close();
-
    connexion->show();
 }
 

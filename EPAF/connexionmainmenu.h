@@ -17,6 +17,7 @@ public:
 
 private:
     Ui::connexionmainmenu *ui;
+
 };
 
 #endif // CONNEXIONMAINMENU_H
